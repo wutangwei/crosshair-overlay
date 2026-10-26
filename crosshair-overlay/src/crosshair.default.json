@@ -1,0 +1,17 @@
+{
+  "style": "cross",
+  "color": "#00FF66",
+  "size": 39,
+  "thick": 2,
+  "gap": 30,
+  "opacity": 100,
+  "outline": false,
+  "dx": -0.1,
+  "dy": -0.1,
+  "visible": true,
+  "theme": "light",
+  "accent": 0,
+  "panel_alpha": 1.0,
+  "_px": 1863,
+  "_py": 167
+}
